@@ -25,7 +25,7 @@ hugo >> $HOME/nohup.out
 
 source=$HOME/${project}/public/
 upload=$HOME/${project}/upload/
-destination=${project-user}@${project-server}.com:/home/${project}/${project}_static
+destination=${project_user}@${project_server}:/home/${project_user}/${project_server}
 
 # checksum on local
 rsync -r -h --delete --checksum $source $upload >> $HOME/nohup.out
