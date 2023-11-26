@@ -11563,7 +11563,9 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../assets/img/bg-masthead.jpg");
+  #background: linear-gradient(to bottom, rgba(255, 255, 255, 0.3) 0%, rgba(255, 255, 255, 0.7) 75%, #000 100%), url("../assets/img/bg-masthead.jpg");
+  #background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 65%, rgba(0, 0, 0, 0.5) 85%, #000 100%), url("../assets/img/bg-masthead.jpg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 85%, rgba(0, 0, 0, 0.5) 95%, #000 100%), url("../assets/img/bg-masthead.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11575,7 +11577,7 @@ body {
   line-height: 2.5rem;
   letter-spacing: 0.8rem;
   background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0));
-  -webkit-text-fill-color: transparent;
+  #-webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
           background-clip: text;
 }

@@ -1,4 +1,45 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://sanghasanya.com/'
+languageCode = 'es-es'
+title = 'Sangha Sanya'
 theme = 'graysx-hugo'
+defaultContentLanguage = 'es'
+
+
+
+## Site Settings
+[params]
+logo = "assets/img/logo.webp"
+favicon = "assets/favicon.png"
+
+# Info
+address = "Palma, Islas Baleares"
+email = "hola@sanghasanya.com"
+phone = "655384230"
+
+# Socials
+
+#twitter = "#"
+#facebook = "#"
+#github = "https://github.com/akatiggerx04/graysx-hugo"
+
+# Other
+
+# Startbootstrap Contact Form Token https://startbootstrap.com/solution/contact-forms
+sbtoken = "TOKEN_HERE"
+
+## Menu Items
+[menu]
+  [[menu.main]]
+  name = "About"
+  URL = "#about"
+  weight = 1
+
+  [[menu.main]]
+  name = "Projects"
+  URL = "#projects"
+  weight = 2
+
+  [[menu.main]]
+  name = "Contact"
+  URL = "#signup"
+  weight = 3

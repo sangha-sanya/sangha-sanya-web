@@ -1,32 +1,32 @@
 # Main Title
 main:
   header:
-    title : "Graysx Theme" # Title Text
-    description : "Aut Deleniti Solu Facilis Idlau imq Atque Ac Itaqu A Co Volup Nu Quaecu Nec Archite At." # Title Desc
+    title : "Sangha Sanya" # Title Text
+    description : "Un espacio para el encuentro en la escucha activa y el tacto consciente." # Title Desc
     button:
-      text: "Learn More" # Button Text
-      url: "#about" # Button URL
+      text: "Encuentros" # Button Text
+      url: "https://encuentros.sanghasanya.com" # Button URL
 
 # About
 about:
-  title: "About us"
-  desc: "Max Ducim Qua Labo Pa Adre Nam Ased Di Ullam Ess Num Minim Quorecu Re Iur Ipsam Autemo Autem Max Iurer Ut Enim Praese Ips Fugia Ne Dig Assumen Cul Ipsum Velit Magna Inl Odio Enimodi Nonve Sunti Tem Incidu Velqui Lauda Assume Volupt Nih Es Autem Officia Culpa Impedit Harum Blandi Si Quis Dol Facilis Verodo Tot Quib Quoden"
+  title: "Sobre nosotros"
+  desc: "Sangha Sanya (pronunciado con i) es una comunidad de personas que comparten la vocación de ayudar a través de la escucha activa y el tacto consiente (varias formas de masaje)."
   button:
-    enable: true
+    enable: False
     text: "Button"
     url: "#"
-  image: "assets/img/ipad.png"
+  image: "assets/img/ipad.jpg"
 
 projects:
   card1:
-    title: "Graysx"
+    title: "Cielo"
     text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
-    img: "assets/img/bg-masthead.jpg"
+    img: "assets/img/juntos.jpg"
   card2:
-    title: "Graysx"
+    title: "Corazón"
     text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
-    img: "assets/img/demo-image-01.jpg"
+    img: "assets/img/fluir.jpg"
   card3:
-    title: "Graysx"
+    title: "Tierra"
     text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
-    img: "assets/img/demo-image-02.jpg"
+    img: "assets/img/gotas.jpg"
