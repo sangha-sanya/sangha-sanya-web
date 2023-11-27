@@ -9,9 +9,9 @@ defaultContentLanguage = 'es'
 ## Site Settings
 [params]
 #logo = "assets/img/logo.webp"
-logo = "assets/img/vesica_piscis.png"
+logo = "assets/img/vesica_piscis_v3.png"
 #favicon = "assets/favicon.png"
-favicon = "assets/img/vesica_piscis.png"
+favicon = "assets/img/vesica_piscis_v3.png"
 
 
 # Info
