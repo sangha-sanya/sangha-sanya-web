@@ -2,7 +2,7 @@
 main:
   header:
     title : "Sangha Sanya" # Title Text
-    description : "Un espacio para el encuentro en la escucha activa y el tacto consciente." # Title Desc
+    description : "Un espacio para el encuentro." # Title Desc
     button:
       text: "Encuentros" # Button Text
       url: "https://encuentros.sanghasanya.com" # Button URL
@@ -10,7 +10,7 @@ main:
 # About
 about:
   title: "Sobre nosotros"
-  desc: "Sangha Sanya (pronunciado con i) es una comunidad de personas que comparten la vocación de ayudar a través de la escucha activa y el tacto consiente (varias formas de masaje)."
+  desc: "Sangha Sanya (pronunciado con sania) es una comunidad de personas que comparten la vocación de ayudar a través de la escucha activa y el tacto consiente (varias formas de masaje)."
   button:
     enable: False
     text: "Button"
@@ -20,13 +20,13 @@ about:
 projects:
   card1:
     title: "Cielo"
-    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
+    text: "A veces, olvidamos nuestro origen, ese que nos susurra..."
     img: "assets/img/juntos.jpg"
   card2:
     title: "Corazón"
-    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
+    text: "...pero hay algo que siempre nos lo está recordando..."
     img: "assets/img/fluir.jpg"
   card3:
     title: "Tierra"
-    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
+    text: "...y cuando lo oímos, podemos cambiar nuestra vida y el mundo. ¡Podemos traer el cielo a la tierra! ¿Nos acompañas?"
     img: "assets/img/gotas.jpg"
