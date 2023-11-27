@@ -8,8 +8,8 @@ defaultContentLanguage = 'es'
 
 ## Site Settings
 [params]
-logo = "assets/img/logo.webp"
-favicon = "assets/favicon.png"
+logo = "assets/img/path6.png"
+favicon = "assets/path6.png"
 
 # Info
 address = "Palma, Islas Baleares"
