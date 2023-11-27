@@ -8,13 +8,16 @@ defaultContentLanguage = 'es'
 
 ## Site Settings
 [params]
+#logo = "assets/img/logo.webp"
 logo = "assets/img/vesica_piscis.png"
+#favicon = "assets/favicon.png"
 favicon = "assets/img/vesica_piscis.png"
+
 
 # Info
 address = "Palma, Islas Baleares"
 email = "hola@sanghasanya.com"
-phone = "655384230"
+phone = "+34 655384230"
 
 # Socials
 
@@ -35,7 +38,7 @@ sbtoken = "TOKEN_HERE"
   weight = 1
 
   [[menu.main]]
-  name = "Proyecto"
+  name = "Proyectos"
   URL = "#projects"
   weight = 2
 
