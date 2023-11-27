@@ -8,8 +8,8 @@ defaultContentLanguage = 'es'
 
 ## Site Settings
 [params]
-logo = "assets/img/path6.png"
-favicon = "assets/path6.png"
+logo = "assets/img/vesica_piscis.png"
+favicon = "assets/img/vesica_piscis.png"
 
 # Info
 address = "Palma, Islas Baleares"
@@ -20,7 +20,7 @@ phone = "655384230"
 
 #twitter = "#"
 #facebook = "#"
-#github = "https://github.com/akatiggerx04/graysx-hugo"
+#instagram = "https://github.com/akatiggerx04/graysx-hugo"
 
 # Other
 
@@ -30,16 +30,16 @@ sbtoken = "TOKEN_HERE"
 ## Menu Items
 [menu]
   [[menu.main]]
-  name = "About"
+  name = "Nosotros"
   URL = "#about"
   weight = 1
 
   [[menu.main]]
-  name = "Projects"
+  name = "Proyecto"
   URL = "#projects"
   weight = 2
 
   [[menu.main]]
-  name = "Contact"
+  name = "Contacto"
   URL = "#signup"
   weight = 3
